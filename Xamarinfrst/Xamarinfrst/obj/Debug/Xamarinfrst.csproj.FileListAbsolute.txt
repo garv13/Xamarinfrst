@@ -1,0 +1,9 @@
+c:\users\garvj\documents\visual studio 2015\Projects\Xamarinfrst\Xamarinfrst\Xamarinfrst\bin\Debug\Xamarinfrst.dll
+c:\users\garvj\documents\visual studio 2015\Projects\Xamarinfrst\Xamarinfrst\Xamarinfrst\bin\Debug\Xamarinfrst.pdb
+c:\users\garvj\documents\visual studio 2015\Projects\Xamarinfrst\Xamarinfrst\Xamarinfrst\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\garvj\documents\visual studio 2015\Projects\Xamarinfrst\Xamarinfrst\Xamarinfrst\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\garvj\documents\visual studio 2015\Projects\Xamarinfrst\Xamarinfrst\Xamarinfrst\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\garvj\documents\visual studio 2015\Projects\Xamarinfrst\Xamarinfrst\Xamarinfrst\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\garvj\documents\visual studio 2015\Projects\Xamarinfrst\Xamarinfrst\Xamarinfrst\obj\Debug\Xamarinfrst.csprojResolveAssemblyReference.cache
+c:\users\garvj\documents\visual studio 2015\Projects\Xamarinfrst\Xamarinfrst\Xamarinfrst\obj\Debug\Xamarinfrst.dll
+c:\users\garvj\documents\visual studio 2015\Projects\Xamarinfrst\Xamarinfrst\Xamarinfrst\obj\Debug\Xamarinfrst.pdb
